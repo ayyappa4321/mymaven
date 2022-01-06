@@ -16,7 +16,7 @@
   <groupId>app</groupId>
   <artifactId>pro</artifactId>
   <packaging>war</packaging>
-  <version>4.0-SNAPSHOT</version>
+  <version>5.0-SNAPSHOT</version>
 
   <name>pro</name>
   <url>http://maven.apache.org</url>
