@@ -16,7 +16,7 @@
   <groupId>app</groupId>
   <artifactId>pro</artifactId>
   <packaging>war</packaging>
-  <version>8.0-SNAPSHOT</version>
+  <version>9.0-SNAPSHOT</version>
 
   <name>pro</name>
   <url>http://maven.apache.org</url>
@@ -49,7 +49,7 @@
     <snapshotRepository>
         <id>deployment</id>
         <name>snapshot release</name>
-        <url>http://34.125.249.199:8081/repository/maven-snapshots/</url>
+        <url>http://34.125.88.183:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
  </distributionManagement>
 </project>
