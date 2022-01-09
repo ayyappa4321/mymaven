@@ -8,7 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
-		<h2>WELCOME TO DEVOPS ONLINE CLASSES</h2>
+        <h1>style="background-color:DodgerBlue;">Hello World!</h1>
+		<h2>style="background-color:Tomato;">WELCOME TO DEVOPS ONLINE CLASSES</h2>
     </body>
 </html>
